@@ -1,2 +1,2 @@
 # justTrianglesWebGL
-Moving WebGL setup out of demo to be more flexible.
+Helpers for use of htmlHelpers and justTriangles together for webgl triangle drawing.
