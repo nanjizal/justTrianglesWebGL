@@ -16,7 +16,7 @@ typedef Limit = {
 
 class InteractionSurface<T:Point> {
     var doc: HTMLDocument;
-    var bg: DivElement;
+    public var bg: DivElement;
     public var width: Int;
     public var height: Int;
     public var color: String;
